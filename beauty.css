@@ -1,0 +1,37 @@
+#yoyo
+{
+	font-family:monospace;
+	font-size:160%;
+}
+#outer
+{
+	height:40px;
+	width:1340px;
+	background-color:green;
+	position:relative;
+}
+#inner
+{
+	height:40px;
+	width:40px;
+	background-color:orange;
+	position:absolute;
+}
+#juke
+{
+	height:300px;
+	width:300px;
+	position:relative;
+}
+#mover
+{
+	height:0px;
+	width:300px;
+	position:absolute;
+}
+#you
+{
+	font-family:monospace;
+	font-size:30px;
+	margin-left:120px;
+}
